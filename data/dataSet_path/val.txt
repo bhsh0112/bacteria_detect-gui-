@@ -1,0 +1,2 @@
+/home/buaa/sh/detect_jun/data/images/446.jpg
+/home/buaa/sh/detect_jun/data/images/333.jpg
